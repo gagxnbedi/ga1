@@ -1,0 +1,268 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 8px;
+  border-bottom: 1px solid var(--token-g9AMUNy-zkvo);
+}
+.freeBox__imhgo {
+  max-width: 1380px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 0px 32px;
+}
+.freeBox__imhgo > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-wrap: wrap;
+  min-width: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+}
+.freeBox__imhgo > :global(.__wab_flex-container) > *,
+.freeBox__imhgo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__imhgo > :global(.__wab_flex-container) > picture > img,
+.freeBox__imhgo
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__imhgo {
+    max-width: 1380px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: relative;
+    min-width: 0;
+    padding: 12px 17px 13px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__imhgo > :global(.__wab_flex-container) {
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+    flex-wrap: wrap;
+    min-width: 0;
+    margin-left: calc(0px - 30px);
+    width: calc(100% + 30px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__imhgo > :global(.__wab_flex-container) > *,
+  .freeBox__imhgo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__imhgo > :global(.__wab_flex-container) > picture > img,
+  .freeBox__imhgo
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 30px;
+  }
+}
+.freeBox___8VVrl {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox___8VVrl > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 43px);
+  width: calc(100% + 43px);
+}
+.freeBox___8VVrl > :global(.__wab_flex-container) > *,
+.freeBox___8VVrl > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___8VVrl > :global(.__wab_flex-container) > picture > img,
+.freeBox___8VVrl
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 43px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox___8VVrl {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    padding: 8px;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox___8VVrl > :global(.__wab_flex-container) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: calc(0px - 43px);
+    width: calc(100% + 43px);
+    margin-top: calc(0px - 0px);
+    height: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox___8VVrl > :global(.__wab_flex-container) > *,
+  .freeBox___8VVrl > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox___8VVrl > :global(.__wab_flex-container) > picture > img,
+  .freeBox___8VVrl
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 43px;
+    margin-top: 0px;
+  }
+}
+.link__ukBhi {
+  color: var(--token-g9AMUNy-zkvo);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.link__q16Eo {
+  color: var(--token-g9AMUNy-zkvo);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.freeBox__v0BUz {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__v0BUz {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    padding: 8px;
+  }
+}
+.link__uhybx {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: var(--token-g9AMUNy-zkvo);
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .link__uhybx {
+    position: relative;
+    width: auto;
+    height: auto;
+    max-width: 800px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: var(--token-UJhWYDF_F54r);
+  }
+}
+.freeBox__tv4Jn {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__tv4Jn > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 43px);
+  width: calc(100% + 43px);
+}
+.freeBox__tv4Jn > :global(.__wab_flex-container) > *,
+.freeBox__tv4Jn > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__tv4Jn > :global(.__wab_flex-container) > picture > img,
+.freeBox__tv4Jn
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 43px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__tv4Jn {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__tv4Jn > :global(.__wab_flex-container) {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: calc(0px - 43px);
+    width: calc(100% + 43px);
+    margin-top: calc(0px - 0px);
+    height: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__tv4Jn > :global(.__wab_flex-container) > *,
+  .freeBox__tv4Jn > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__tv4Jn > :global(.__wab_flex-container) > picture > img,
+  .freeBox__tv4Jn
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 43px;
+    margin-top: 0px;
+  }
+}
+.link__gYtEy {
+  color: var(--token-g9AMUNy-zkvo);
+  text-transform: capitalize;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+  color: var(--token-g9AMUNy-zkvo);
+  flex-shrink: 0;
+}
